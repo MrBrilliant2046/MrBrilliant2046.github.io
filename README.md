@@ -1,4 +1,4 @@
-# Blog Title :link: https://MrBrilliant2046.github.io/brills.github.io 
+# Blog Title :link: https://MrBrilliant2046.github.io/brills
 ### :page_facing_up: [1](https://MrBrilliant2046.github.io/brills.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 2 

@@ -4,16 +4,5 @@
     "avatarUrl":"https://avatars.githubusercontent.com/u/94728421?v=4",
     "GMEEK_VERSION":"last",
     "displayTitle":"Meekdai",
-    "homeUrl":"http://blog.lolicon.sbs/",
-    "startSite":"07/16/2024",
-    "filingNum":"moe～ICP备20023628号",
-    "onePageListNum":15,
-    "singlePage":["about"],
-    "commentLabelColor":"#006b75",
-    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
-    "i18n":"CN",
-    "UTC":8,
-    "themeMode":"manual",
-    "dayTheme":"light",
-    "nightTheme":"dark_colorblind",
+   
 }

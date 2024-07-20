@@ -1,2 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brill的小屋</title><link>http://blog.lolicon.sbs/</link><description>--今天和小萝莉贴贴了吗--</description><copyright>Brill的小屋</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/94728421?v=4</url><title>avatar</title><link>http://blog.lolicon.sbs/</link></image><lastBuildDate>Sat, 20 Jul 2024 09:30:07 +0000</lastBuildDate><managingEditor>Brill的小屋</managingEditor><ttl>60</ttl><webMaster>Brill的小屋</webMaster><item><title>萌新的第一篇正式blog</title><link>http://blog.lolicon.sbs//post/meng-xin-de-di-yi-pian-zheng-shi-blog.html</link><guid isPermaLink="true">http://blog.lolicon.sbs//post/meng-xin-de-di-yi-pian-zheng-shi-blog.html</guid><pubDate>Sat, 20 Jul 2024 09:29:44 +0000</pubDate></item><item><title>测试</title><link>http://blog.lolicon.sbs//post/ce-shi.html</link><description>测试。</description><guid isPermaLink="true">http://blog.lolicon.sbs//post/ce-shi.html</guid><pubDate>Tue, 16 Jul 2024 04:11:17 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Brill的小屋</title><link>http://blog.lolicon.sbs/</link><description>--今天和小萝莉贴贴了吗--</description><copyright>Brill的小屋</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/94728421?v=4</url><title>avatar</title><link>http://blog.lolicon.sbs/</link></image><lastBuildDate>Sat, 20 Jul 2024 10:04:41 +0000</lastBuildDate><managingEditor>Brill的小屋</managingEditor><ttl>60</ttl><webMaster>Brill的小屋</webMaster><item><title>萌新的第一篇正式blog</title><link>http://blog.lolicon.sbs//post/meng-xin-de-di-yi-pian-zheng-shi-blog.html</link><description>终于有了自己的小屋（#&#13;
+~~完结撒花~~&#13;
+*梦开始的地方*&#13;
+拥有自己的blog也算是圆梦吧（对于一个几乎0基础新人来说）&#13;
+这里先给自己定下几个小目标吧：##&#13;
+～～精通Java～～（不开玩笑了&#13;
+精通Python&#13;
+学会Rust和Go&#13;
+在galgame解包方面有所贡献&#13;
+在galgame相关资源管理有所贡献&#13;
+对live2D模型与大模型交互方面创新&#13;
+......&#13;
+------&#13;
+总之，请多指教啦。</description><guid isPermaLink="true">http://blog.lolicon.sbs//post/meng-xin-de-di-yi-pian-zheng-shi-blog.html</guid><pubDate>Sat, 20 Jul 2024 09:29:44 +0000</pubDate></item><item><title>测试</title><link>http://blog.lolicon.sbs//post/ce-shi.html</link><description>测试。</description><guid isPermaLink="true">http://blog.lolicon.sbs//post/ce-shi.html</guid><pubDate>Tue, 16 Jul 2024 04:11:17 +0000</pubDate></item></channel></rss>
